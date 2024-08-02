@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Aug 2024 11:29:28 at https://themeperch.net/html/politixy/home-1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themeperch.net/html/politixy/home-1.html -O1 "C:\Users\Orange\Desktop\Election\Election Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:30:14	Error: 	"Not Found" (404) at link https://themeperch.net/html/politixy/assets/css/images/layers.png (from https://themeperch.net/html/politixy/assets/css/leaflet.css)
+11:30:14	Error: 	"Not Found" (404) at link https://themeperch.net/html/politixy/assets/css/images/layers-2x.png (from https://themeperch.net/html/politixy/assets/css/leaflet.css)
+11:30:14	Error: 	"Not Found" (404) at link https://themeperch.net/html/politixy/assets/images/map-tile.png (from https://themeperch.net/html/politixy/assets/css/style.css)
+11:30:14	Error: 	"Not Found" (404) at link https://themeperch.net/html/politixy/assets/images/map-tile-2.jpg (from https://themeperch.net/html/politixy/assets/css/style.css)
+11:30:20	Error: 	"Not Found" (404) at link https://themeperch.net/html/politixy/blog-1.html (from https://themeperch.net/html/politixy/news-single.html)
+11:30:23	Error: 	"Not Found" (404) at link https://themeperch.net/html/politixy/documentation/assets/css/img/warning.png (from https://themeperch.net/html/politixy/documentation/assets/css/documentation-style.css)
+11:30:23	Error: 	"Not Found" (404) at link https://themeperch.net/html/politixy/documentation/assets/css/img/info.png (from https://themeperch.net/html/politixy/documentation/assets/css/documentation-style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 123 links scanned, 115 files written (28995676 bytes overall) [26403903 bytes received at 480070 bytes/sec], 4456167 bytes transferred using HTTP compression in 60 files, ratio 27%, 12.3 requests per connection
+(7 errors, 0 warnings, 0 messages)
